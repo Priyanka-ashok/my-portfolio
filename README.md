@@ -1,5 +1,6 @@
 Built with Create react app : `npx create-react-app my-portfolio`
-Follow below steps to run this :
+
+Follow below steps to run the app :
 1. clone the repo `git clone`
 2. cd `my-portfolio`
 3. run `npm install`
