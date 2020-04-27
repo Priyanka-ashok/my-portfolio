@@ -20,7 +20,7 @@ export default class About extends Component {
                         I am a Post graduated student from MSRIT under
                         specialization ECE.I love exploring new technologies and
                         often amazed by the progress we as a human species have
-                        mad so far in the recent years.
+                        made so far in the recent years.
                       </p>
                       <p>
                         1.5 years of Industry experience at Quintype as a front
